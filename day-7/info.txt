@@ -1,0 +1,2 @@
+block = full 
+inline = only that part
