@@ -1,0 +1,4 @@
+header = top
+nav in under header
+then main
+last footer
