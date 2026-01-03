@@ -1,0 +1,4 @@
+for video and audio play the controls should be must in attributes
+poster = thumbnaill of video
+SVG
+IFRAME
