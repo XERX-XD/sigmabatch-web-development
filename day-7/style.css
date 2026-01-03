@@ -4,6 +4,11 @@ p{
 a{
     background-color: blue;
 }
-div{
-    background-color: yellow;
+
+label{
+    background-color: pink;
+}
+button{
+    background-color: red;
+    color: rgb(64, 24, 209);
 }
