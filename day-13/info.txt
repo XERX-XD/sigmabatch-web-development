@@ -1,0 +1,5 @@
+HTML Entities
+
+&lt; = <
+&gt; =>
+&copy; = ©
